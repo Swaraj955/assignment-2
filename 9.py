@@ -1,3 +1,6 @@
+# taking inputs and predicting outputs
+
+
 a = input("name: ")
 
 b = int(input("Age: "))
