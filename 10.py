@@ -1,7 +1,7 @@
 print("10" + "20")
 print(10 + 20)
 
-a = 30
-b = 40
+a = 300
+b = 400
 c = a + b
 print(c)
